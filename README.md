@@ -7,7 +7,8 @@ Works with latest version of Python.
 3. Open your terminal, change to the directory where main.py, requirements.txt and your file is located, and type "pip install -r requirements.txt".
 4. Open main.py using a text editor, and replace "xxx" in "file_path = "xxx" with your file name (example: "file_path = "music.mp3")
 5. Repeat step 3 for "target_work", but instead of the file type the word for opening the file
-6. Open main.py using your terminal or VSC.
+6. Place the file in the same golder of main.py.
+7. Open main.py using your terminal or VSC.
 
 # FAQ
 Q: Does this work with whole sentences?  
