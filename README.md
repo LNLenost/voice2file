@@ -9,7 +9,7 @@ Works with latest version of Python.
 5. Open main.py using your terminal or VSC.
 
 # FAQ
-Q: Does this work with whole sentences?
+Q: Does this work with whole sentences?  
 A: Yes.
 
 Q: Something isn't working, what should I do?
