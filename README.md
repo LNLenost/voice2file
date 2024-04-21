@@ -8,4 +8,9 @@ Works with latest version of Python.
 4. Repeat step 3 for "target_work", but instead of the file type the word for opening the file
 5. Open main.py using your terminal or VSC.
 
-# Enjoy!
+# FAQ
+Q: Does this work with whole sentences?
+A: Yes.
+
+Q: Something isn't working, what should I do?
+A: Make sure you followed step 1 and 2. If you did, open an issue.
