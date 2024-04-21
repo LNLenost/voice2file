@@ -23,7 +23,7 @@ def recognize_speech():
 
 def main():
     # Parola da rilevare per aprire il file
-    target_word = "open your mind"
+    target_word = "xxx"
 
     while True:
         # Ascolta il microfono e riconosci il testo
@@ -32,7 +32,7 @@ def main():
         # Controlla se la parola target è presente nel testo riconosciuto
         if target_word in spoken_text:
             # Apri il file desiderato
-            file_path = "Dash.mp3"  # Inserisci il percorso del tuo file
+            file_path = "xxx"  # Inserisci il percorso del tuo file
             try:
                 os.startfile(file_path)  # Apre il file con l'applicazione predefinita
                 print(f"File opened: {file_path}")
