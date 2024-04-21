@@ -1,4 +1,4 @@
-# voice2file
+# voice2file: my first project on GitHub!
 Opens any file using your voice.
 Works with latest version of Python.
 # How to use
