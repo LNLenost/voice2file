@@ -18,3 +18,4 @@ Q: Something isn't working, what should I do?
 A: Make sure you followed step 1 and 2. If you did, open an issue.
 
 # Enjoy!
+:D
