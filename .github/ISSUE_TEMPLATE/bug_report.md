@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report any bugs you may find while using voice2file.
 title: ''
 labels: ''
 assignees: ''
